@@ -1,3 +1,7 @@
+# Python SuperTuxKart w mod
+
+This is minorly adjusted verison of the below with a single added feature: `race.get_kart_action(0)` which allows for getting of a kart's action. Useful for getting AI movement as training data in RL environments. 
+
 # Python SuperTuxKart
 
 This is a heavily modified version of the free [SuperTuxKart](https://github.com/supertuxkart/stk-code) racing game for sensorimotor control experiments.
